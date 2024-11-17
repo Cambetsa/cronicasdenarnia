@@ -1,7 +1,8 @@
 {
-  "rew" [
-    { "source": "/(.*)",
+  "rewrites": [
+    {
+      "source": "/(.*)",
       "destination": "/"
-     }  
-        ]     
+    }
+  ]
 }
